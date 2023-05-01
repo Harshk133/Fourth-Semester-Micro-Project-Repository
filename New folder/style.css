@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    overflow-y: scroll;
+    height: 100vh;
+}
+
+.footer{
+    position: relative;
+    margin-top: 20px;
+    height: 40px;
+    background: #f8f9fa;
+    text-align: center;
+}
+
+
+
